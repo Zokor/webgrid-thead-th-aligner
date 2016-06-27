@@ -1,4 +1,4 @@
-# webgrid-theadaligner
+# webgrid-thead-th-aligner
 To align header on Web Grid in asp.net mvc through javascript
 
 ```
